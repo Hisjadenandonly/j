@@ -1,4 +1,4 @@
-export const service = "service_f7kmewf";
-export const template = "template_78byqir";
-export const apiKey = "WPxDAspdOG0oOKCby";
-export const recieverMail = "michaelcarlson477@gmail.com";
+export const service = "service_szpcma8";
+export const template = "template_mnqdxn6";
+export const apiKey = "ufNZdy9duBtqahAwW";
+export const recieverMail = "hisjaden@gmail.com";
